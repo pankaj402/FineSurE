@@ -100,13 +100,9 @@ python reproduce-main-results.py results/frank-result-by-gpt4-w-finesure.json re
 
 ## Author
 
-Adarsh Srivastava
+Swadesh swami - 4th year B.Tech Computer science Engineer student at National Institute of Technology, Patna (NITP)
+Adarsh Srivastava - 4th year B.Tech Computer science Engineer student at National Institute of Technology, Patna (NITP)
 
-Computer Science and engineering
-
-National Institute of Technology, Patna (NITP)
-
-[Github profile](https://github.com/adarsh-2011)           [Linkdin](https://www.linkedin.com/in/adarsh-srivastava-10a783257/)
 
 ## contact
 
