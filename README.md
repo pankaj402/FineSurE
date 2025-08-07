@@ -106,4 +106,4 @@ Adarsh Srivastava - 4th year B.Tech Computer science Engineer student at Nationa
 
 ## contact
 
-For any query please feel free to reach out me at [srivastavaadarsh434@gmail.com](mailto:srivastavaadarsh434@gmail.com)
+For any query please feel free to reach out me at [swadeshswami@gmail.com](mailto:swadeshswami@gmail.com)
